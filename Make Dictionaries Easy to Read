@@ -1,0 +1,7 @@
+familia1 = { 'Name': 'Rocio Mendez',
+ 'Gender': 'Female',
+ 'Occupation': 'HouseKepper',
+ 'Nationality': 'Mexico',
+ 'City': 'Guadalajara'
+  }
+print(familia1)
